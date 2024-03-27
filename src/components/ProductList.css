@@ -1,0 +1,9 @@
+.add-to-cart-btn {
+    background-color: #E83350;
+    border-color: #E83350;
+}
+  
+.add-to-cart-btn:hover {
+    background-color: #C62E45;
+    border-color: #C62E45;
+}
